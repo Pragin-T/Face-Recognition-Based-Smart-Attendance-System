@@ -1,0 +1,55 @@
+import dlib
+# A toolkit containing machine learning algorithms,
+# often used for face detection and facial landmark recognition.
+
+import pandas as pd
+# A powerful library for data manipulation and analysis,
+# providing data structures like DataFrame
+
+import time
+# A module that provides time-related functions like getting the current time or
+# pausing execution for a set amount of time.
+
+import logging
+# A module that provides a flexible framework for emitting log messages from Python programs
+# useful for tracking events during execution.
+
+import sqlite3
+# A module for interacting with SQLite databases,
+# allowing you to execute SQL commands and manage database files directly.
+
+import datetime
+# A module that supplies classes for manipulating dates and times.
+
+import cv2
+#  OpenCV library for computer vision tasks like image processing,
+#  capturing images from the camera, and performing machine learning.
+
+import os
+# A module that provides functions for interacting with the operating system,
+# like reading or writing files, and executing system commands.
+
+import streamlit as st
+# A library for building custom web applications for data science and machine learning projects.
+
+import numpy as np
+# A library for numerical operations, especially useful for working with arrays,
+# matrices, and performing mathematical operations.
+
+import shutil
+# A module offering high-level operations on files and collections of files,
+# such as copying, moving, and removing files.
+
+import tkinter as tk
+#  A standard GUI (Graphical User Interface) toolkit for creating windowed applications.
+
+from tkinter import font as tkFont
+# importing font from tkinter toolkit.
+
+from PIL import Image, ImageTk
+# This might refer to PIL (Pillow), a library for opening, manipulating,
+# and saving many different image file formats.
+
+from flask import Flask, render_template, request
+# A lightweight WSGI web application framework in Python,
+# useful for building web applications and APIs.
