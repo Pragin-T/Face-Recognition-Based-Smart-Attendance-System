@@ -58,7 +58,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 👨‍💻 Author
 T. Pragin
-Side Project – Smart Attendance System
+Project – Smart Attendance System
 Email: pragin.t.developer@gmail.com
 
 ## 🗂️ Project Structure
