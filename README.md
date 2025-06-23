@@ -7,12 +7,13 @@ A smart attendance tracking solution that uses real-time face recognition to mar
 ## 📌 Features
 
 - 📸 Real-time webcam-based **face recognition**
-- 🧍 New user **face registration**
+- 🧍 New user face registration with intelligent detection
 - 🧠 128D **facial feature extraction** stored in CSV
 - ✅ Automated **attendance marking**
 - 📊 Attendance logs stored in **SQLite database**
 - 🌐 Web interface built using **Streamlit**
 - ⚙️ Uses **dlib wheel** prebuilt for Python 3.11 (included)
+- 🤖 Integrates AI-powered face matching and detection pipeline
 
 ---
 ⚙️ Installation
